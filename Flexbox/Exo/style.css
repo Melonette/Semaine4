@@ -1,0 +1,93 @@
+body{
+    background-color: rgb(238, 232, 232);
+}
+
+.container1{
+    background-color: white;
+    width: 1500px;
+    margin-bottom: 10px;
+}
+
+.houses{
+    background-color: white;
+    display: flex;
+    flex-wrap:wrap; 
+    justify-content: center;
+}  
+
+.house{
+    width: 120px;
+    padding:10px;
+}
+
+.secondrow{
+    display: flex;
+    flex-wrap: no-wrap;
+    justify-content:space-around;
+    height: 400px;
+}
+
+.container2{
+    padding:10px;
+    background-color: white;
+    width: 250px;
+}
+
+.lien{
+    color: rgb(64, 56, 165);
+}
+
+.imgtree{
+    padding: 40px;
+    flex-wrap: wrap;
+}
+
+.garden1{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}   
+
+.wheat{
+    width: 100px;
+}
+
+.nutrition{
+    background-color: white;
+    width: 300px;
+    justify-content:center;
+}  
+
+.innovation{
+    background-color: white;
+    width: 300px;  
+}  
+
+.tree{
+    width: 200px;
+    padding-left: 50px;
+}
+
+.container3{
+    padding: 10px;
+    background-color: white;
+    width: 250px;
+}
+
+p{
+    text-align: left;
+}
+
+.garden2{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+} 
+
+
+
+
+
+
+
+

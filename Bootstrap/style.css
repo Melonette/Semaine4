@@ -1,0 +1,20 @@
+.col-sm{
+    height: 50px;
+    width: 50px;
+}
+
+.greysq{
+    background-color: grey;
+}
+
+.yellow{
+background-color: yellow;
+}
+
+.orange{
+    background-color: orangered;
+}
+
+.black{
+    background-color: black;
+}

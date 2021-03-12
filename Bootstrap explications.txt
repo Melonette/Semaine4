@@ -1,0 +1,32 @@
+https://getbootstrap.com/
+
+Choisir la bonne version (4.6 à Simplon)
+
+Copie la structure html de bootstrap
+copier le starter template
+Copier à partir du site
+
+Liens
+
+Style;CSS
+Script JS
+Librairie Jquery
+Jquery permet de faire des animations
+
+Tout se fait par copier-collé$
+on peut modifier ensuite dans le code par exemple width (par tranches de 25)
+
+Aller dans components pour trouver les composantes
+utiliser le css pour mettre en forme des classes référencées dans le html (espace + pink par exemple, pour le bouton à la fin du html)
+la première classe permet d'activer bootstrap
+
+ Dans le cdn on a deja des classes
+ on met tout dans un container
+
+container fluide prend toute la largeur
+container normal prend la largeur d'une page
+Il faut toujours mettre le code dans un container dans des div
+< div class="container">
+<div class="container-fluid">
+
+
