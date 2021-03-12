@@ -9,9 +9,9 @@ si que column, les met dans l'ordre*/
 /*justify content*/
 
 .carre{
-    height: 100px;
-    width: 100px;
-    background-color: red;
+    height: 150px;
+    width: 150px;
+    background-color: rgb(124, 121, 121);
     margin: 5px;
 }
 
